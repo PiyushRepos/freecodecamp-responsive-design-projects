@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family:'Gill Sans', 'Gill Sans MT', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #222;
+  color: #fff;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 + p {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.container {
+    padding: 2rem;
+    height: 100%;
+    max-height: auto;
+} 
+
+label {
+    display: block;
+}
+
+#survay-form {
+    background-color: #7469B6;
+    padding: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+form p {
+    font-weight: 600;
+}
+
+form label {
+    font-weight: 500;
+}
+
+input, select {
+    border: none;
+    outline: none;
+    padding: .5rem;
+}
+
+textarea {
+    resize: none;
+    border: 1px solid #f0dbdb;
+    outline: none;
+    padding: .6rem;
+}
+
+button {
+    width: 100%;
+    height: 2rem;
+    background-color: #08fd72;
+    border: none;
+    font-weight: 600;
+    font-size: medium;
+}
+
