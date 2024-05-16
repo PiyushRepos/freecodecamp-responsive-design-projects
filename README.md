@@ -29,6 +29,6 @@
 <h2>About FreeCodeCamp:</h2>
 <p><a href="https://www.freecodecamp.org/">FreeCodeCamp</a> is a non-profit organization that offers free online coding tutorials and certifications. The Responsive Design Certification course is designed to teach responsive web design principles and techniques.</p>
 
-<h1>Acknowledgements:</h2>
+<h2>Acknowledgements:</h2>
 <p>Thanks to FreeCodeCamp for providing the course materials and guidance.
 Special thanks to the community for support and feedback during the learning process.</p>
